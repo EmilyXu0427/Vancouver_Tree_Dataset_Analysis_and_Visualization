@@ -27,7 +27,7 @@ To answer these questions, I have completed the following analysis:
 <br>
 <br>
 <div>
-  <h3>Programming Lanugage | Library | Framework</h3>
+  <h3>Programming Language | Library | Framework</h3>
 </div>
 Python (Pandas & Vega-Altair)
 <br>
