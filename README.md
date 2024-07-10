@@ -8,8 +8,8 @@ To answer these questions, I have carried out a exploratory data analysis and vi
 
 Finally, I created an interactive dashboard to present the tree details of specific/selected vancouver neighbourhood. 
 
-The data used in this project is a subset of Vancouver Street Trees dataset (https://opendata.vancouver.ca/explore/dataset/street-trees/information/?disjunctive.species_name&disjunctive.common_name&disjunctive.height_range_id&disjunctive.on_street&disjunctive.neighbourhood_name). The data were obtained from The city of Vancouver's Open Data Portal and follows an Open Government Licence – Vancouver (https://opendata.vancouver.ca/pages/licence/).
-
+The data used in this project is a subset of Vancouver Street Trees dataset 
+(https://opendata.vancouver.ca/explore/dataset/street-trees/information/?disjunctive.species_name&disjunctive.common_name&disjunctive.height_range_id&disjunctive.on_street&disjunctive.neighbourhood_name).
 
 ## A snapshot of interactive dashboard
 (please download the html file for full interactive experience)
